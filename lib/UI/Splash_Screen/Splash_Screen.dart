@@ -32,6 +32,7 @@ class _SplashScreenState extends State<SplashScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body:Container(
+        // testing git push
         alignment: Alignment.center,
         decoration: BoxDecoration(
             image: DecorationImage(
